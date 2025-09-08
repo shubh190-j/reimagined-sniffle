@@ -1,0 +1,12 @@
+{
+  "Roboto": { "Regular": "Roboto-Regular.ttf", "Bold": "Roboto-Bold.ttf", "Italic": "Roboto-Italic.ttf" },
+  "OpenSans": { "Regular": "OpenSans-Regular.ttf", "Bold": "OpenSans-Bold.ttf" },
+  "Lato": { "Regular": "Lato-Regular.ttf", "Bold": "Lato-Bold.ttf" },
+  "Montserrat": { "Regular": "Montserrat-Regular.ttf", "Bold": "Montserrat-Bold.ttf" },
+  "Poppins": { "Regular": "Poppins-Regular.ttf", "Bold": "Poppins-Bold.ttf" },
+  "Raleway": { "Regular": "Raleway-Regular.ttf", "Bold": "Raleway-Bold.ttf" },
+  "Nunito": { "Regular": "Nunito-Regular.ttf", "Bold": "Nunito-Bold.ttf" },
+  "Playfair": { "Regular": "PlayfairDisplay-Regular.ttf", "Bold": "PlayfairDisplay-Bold.ttf" },
+  "Ubuntu": { "Regular": "Ubuntu-Regular.ttf", "Bold": "Ubuntu-Bold.ttf" },
+  "Merriweather": { "Regular": "Merriweather-Regular.ttf", "Bold": "Merriweather-Bold.ttf" }
+}
